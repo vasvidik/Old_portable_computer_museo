@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<devices>
+
+	<device>
+        <year>1990</year>
+
+        <id>c0004</id>
+
+        <name>Casio Z-1</name>
+
+    </device>
+	
+	<device>
+        <year>1988</year>
+        <id>c0005</id>
+        <name>Электроника МК-90</name>
+	</device>
+	
+	<device>
+        <year>1986</year>
+        <id>c0006</id>
+        <name>Электроника МК-85</name>
+	</device>
+	
+	<device>
+        <year>1984</year>
+        <id>c0007</id>
+        <name>Sharp PC-1260</name>
+	</device>
+
+	<device>
+        <year>1986</year>
+        <id>c0008</id>
+        <name>Sharp PC-1403</name>
+	</device>
+	
+	<device>
+        <year>1995</year>
+        <id>c0009</id>
+        <name>Sharp PC-G820</name>
+	</device>
+	
+	<device>
+        <year>1995</year>
+        <id>c0010</id>
+        <name>Sharp PC-G850</name>
+	</device>
+
+	<device>
+        <year>1980</year>
+        <id>c0011</id>
+        <name>Sharp PC-1211</name>
+	</device>
+
+	<device>
+        <year>1991</year>
+        <id>c0012</id>
+        <name>Sharp PC-E220</name>
+	</device>
+	
+	<device>
+        <year>1982</year>
+        <id>c0013</id>
+        <name>Casio FX-700P</name>
+	</device>
+	
+	<device>
+        <year>1981</year>
+        <id>c0014</id>
+        <name>Casio FX-702P</name>
+	</device>
+	
+	<device>
+        <year>1989</year>
+        <id>c0015</id>
+        <name>Casio PB-2000C</name>
+	</device>
+	
+	<device>
+        <year>1983</year>
+        <id>c0016</id>
+        <name>Casio PB-700</name>
+	</device>
+
+
+
+
+	
+	
+
+    <device>
+        <year>1982</year>
+
+        <id>n0001</id>
+
+        <name>GRiD Compass 1101</name>
+
+    </device>
+
+    <device>
+        <year>1983</year>
+
+        <id>n0002</id>
+
+        <name>Epson HX-20</name>
+
+    </device>
+
+    <device>
+        <year>1999</year>
+
+        <id>n0003</id>
+
+        <name>Psion netBook</name>
+
+    </device>
+	
+	<device>
+        <year>1996</year>
+        <id>n0004</id>
+        <name>Toshiba Libretto 20</name>
+	</device>
+	
+	<device>
+        <year>1987</year>
+        <id>n0005</id>
+        <name>Toshiba T1000</name>
+	</device>
+	
+	<device>
+        <year>1984</year>
+        <id>n0006</id>
+        <name>HP 110</name>
+	</device>
+
+	<device>
+        <year>1992</year>
+        <id>n0007</id>
+        <name>IBM ThinkPad 700c</name>
+	</device>
+	
+	<device>
+        <year>1997</year>
+        <id>n0008</id>
+        <name>Toshiba Libretto 50CT</name>
+	</device>
+
+	<device>
+        <year>1998</year>
+        <id>n0009</id>
+        <name>Toshiba Libretto 100CT</name>
+	</device>
+	
+	<device>
+        <year>1998</year>
+        <id>n0010</id>
+        <name>Sony VAIO PCG-505G</name>
+	</device>
+	
+	<device>
+        <year>1984</year>
+        <id>n0011</id>
+        <name>Epson PX-8</name>
+	</device>
+
+	<device>
+        <year>1985</year>
+        <id>n0012</id>
+        <name>Epson PX-4</name>
+	</device>
+
+
+
+
+
+    <device>
+        <year>1996</year>
+
+        <id>p0001</id>
+
+        <name>U.S. Robotics Pilot 1000</name>
+
+    </device>
+
+	<device>
+        <year>1984</year>
+
+        <id>p0002</id>
+
+        <name>Psion Organizer I</name>
+
+    </device>
+	
+	<device>
+        <year>1986</year>
+        <id>p0003</id>
+        <name>Psion Organizer II</name>
+	</device>
+	
+	<device>
+        <year>2005</year>
+        <id>p0004</id>
+        <name>Nokia 770</name>
+	</device>
+	
+	<device>
+        <year>2007</year>
+        <id>p0005</id>
+        <name>Nokia N800</name>
+	</device>
+
+	<device>
+        <year>2007</year>
+        <id>p0006</id>
+        <name>Nokia N810</name>
+	</device>
+	
+	<device>
+        <year>1992</year>
+        <id>p0007</id>
+        <name>Apple Newton MessagePad</name>
+	</device>
+	
+	<device>
+        <year>1994</year>
+        <id>p0008</id>
+        <name>Apple Newton MessagePad 120</name>
+	</device>
+	
+	<device>
+        <year>2008</year>
+        <id>p0009</id>
+        <name>HP iPAQ 214</name>
+	</device>
+	
+	<device>
+        <year>2004</year>
+        <id>p0010</id>
+        <name>HP iPAQ hx4700</name>
+	</device>
+	
+	<device>
+        <year>2006</year>
+        <id>p0011</id>
+        <name>HP iPAQ rx5000</name>
+	</device>
+	
+	<device>
+        <year>2002</year>
+        <id>p0012</id>
+        <name>HP iPAQ h5450</name>
+	</device>
+
+	<device>
+        <year>2003</year>
+        <id>p0013</id>
+        <name>HP iPAQ h4350</name>
+	</device>
+	
+	<device>
+        <year>2000</year>
+        <id>p0014</id>
+        <name>HP Jornada 548</name>
+	</device>
+	
+	<device>
+        <year>2002</year>
+        <id>p0015</id>
+        <name>HP iPAQ h1910</name>
+	</device>
+
+
+
+
+	
+
+
+    <device>
+        <year>1994</year>
+
+        <id>s0001</id>
+
+        <name>IBM Simon</name>
+
+    </device>
+
+    <device>
+        <year>2000</year>
+
+        <id>s0002</id>
+
+        <name>Ericsson R380</name>
+
+    </device>
+
+    <device>
+        <year>2008</year>
+
+        <id>s0003</id>
+
+        <name>Nokia N97</name>
+
+    </device>
+
+    <device>
+        <year>2008</year>
+
+        <id>s0004</id>
+
+        <name>HTC Dream</name>
+
+    </device>
+	
+	<device>
+        <year>2007</year>
+
+        <id>s0005</id>
+
+        <name>Apple iPhone</name>
+
+    </device>
+
+	<device>
+        <year>2010</year>
+
+        <id>s0006</id>
+
+        <name>Nokia N8</name>
+
+    </device>
+
+	<device>
+        <year>2010</year>
+
+        <id>s0007</id>
+
+        <name>Nokia E7</name>
+
+    </device>
+	
+	<device>
+        <year>2009</year>
+        <id>s0008</id>
+        <name>Sony Ericsson Vivaz</name>
+	</device>
+
+	<device>
+        <year>2009</year>
+        <id>s0009</id>
+        <name>Sony Ericsson Vivaz Pro</name>
+	</device>
+	
+	<device>
+        <year>2009</year>
+        <id>s0010</id>
+        <name>Nokia N900</name>
+	</device>
+
+	<device>
+        <year>2010</year>
+        <id>s0011</id>
+        <name>HTC Desire Z</name>
+	</device>
+
+	<device>
+        <year>2004</year>
+        <id>s0012</id>
+        <name>Nokia 7710</name>
+	</device>
+	
+	<device>
+        <year>2002</year>
+        <id>s0013</id>
+        <name>HP Jornada 928</name>
+	</device>
+	
+	<device>
+        <year>2002</year>
+        <id>s0014</id>
+        <name>Sony Ericsson P800</name>
+	</device>
+	
+	<device>
+        <year>2009</year>
+        <id>s0015</id>
+        <name>HTC Hero</name>
+	</device>
+
+	<device>
+        <year>2008</year>
+        <id>s0016</id>
+        <name>Nokia 5800</name>
+	</device>
+
+	<device>
+        <year>2002</year>
+        <id>s0017</id>
+        <name>Handspring Treo 300</name>
+	</device>
+	
+	<device>
+        <year>2010</year>
+        <id>s0018</id>
+        <name>LG GT540</name>
+	</device>
+
+	
+	
+	
+
+
+    <device>
+        <year>1999</year>
+
+        <id>h0001</id>
+
+        <name>Psion 5mx</name>
+
+    </device>
+
+    <device>
+        <year>2000</year>
+
+        <id>h0002</id>
+
+        <name>HP Jornada 720</name>
+
+    </device>
+	
+	<device>
+        <year>1989</year>
+
+        <id>h0003</id>
+
+        <name>Atari Portfolio</name>
+
+    </device>
+
+	<device>
+        <year>1989</year>
+
+        <id>h0004</id>
+
+        <name>Poqet PC</name>
+
+    </device>
+
+	<device>
+        <year>1991</year>
+
+        <id>h0005</id>
+
+        <name>HP 95LX</name>
+
+    </device>
+	
+	<device>
+        <year>1993</year>
+        <id>h0006</id>
+        <name>HP 100LX</name>
+	</device>
+	
+	<device>
+        <year>1996</year>
+        <id>h0007</id>
+        <name>HP 200LX</name>
+	</device>
+	
+	<device>
+        <year>2003</year>
+        <id>h0008</id>
+        <name>NEC MobilePro 900</name>
+	</device>
+	
+	<device>
+        <year>1997</year>
+        <id>h0009</id>
+        <name>NEC MobilePro 200</name>
+	</device>
+
+	<device>
+        <year>1997</year>
+        <id>h0010</id>
+        <name>NEC MobilePro 400</name>
+	</device>
+	
+	<device>
+        <year>1997</year>
+        <id>h0011</id>
+        <name>Casio Cassiopeia A-20</name>
+	</device>
+	
+	<device>
+        <year>2002</year>
+        <id>h0012</id>
+        <name>HP Jornada 728</name>
+	</device>
+
+	
+	
+	
+	
+	
+	
+	<device>
+        <year>2008</year>
+
+        <id>u0001</id>
+
+        <name>HTC Shift</name>
+
+    </device>
+
+	<device>
+        <year>2004</year>
+
+        <id>u0002</id>
+
+        <name>OQO Model 01</name>
+
+    </device>
+
+	<device>
+        <year>2006</year>
+
+        <id>u0003</id>
+
+        <name>ASUS R2H</name>
+
+    </device>
+
+	<device>
+        <year>2006</year>
+
+        <id>u0004</id>
+
+        <name>Samsung NP-Q1</name>
+
+    </device>
+
+	<device>
+        <year>2007</year>
+        <id>u0005</id>
+        <name>Wibrain B1</name>
+	</device>
+	
+	<device>
+        <year>2009</year>
+        <id>u0006</id>
+        <name>ASUS R50A</name>
+	</device>
+	
+	<device>
+        <year>2007</year>
+        <id>u0007</id>
+        <name>Samsung Q1 Ultra</name>
+	</device>
+
+
+
+
+    <theEnd></theEnd>
+
+</devices>
